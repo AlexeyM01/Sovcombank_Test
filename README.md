@@ -3,6 +3,13 @@
 Ссылка на вакансию - 
 https://novosibirsk.hh.ru/vacancy/111245577?hhtmFrom=employer_vacancies
 
+Нужен еще .env файл с содержанием похожим на текст ниже (но со своими данными):
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASS=postgres
+
 Условия задачи:
 (Полное условие задачи можно найти в файле task condition)
 
